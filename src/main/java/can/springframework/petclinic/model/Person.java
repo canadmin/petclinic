@@ -4,7 +4,7 @@ public class Person {
 
     private String firstName;
     private String lastName;
-
+    private String deneme;
     public String getFirstName() {
         return firstName;
     }
